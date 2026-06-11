@@ -3,8 +3,8 @@
 ![neurodeck](neurodeck.png)
 
 ## What is a Neuro Deck?
-A Neuro Deck is an N-dimensional music-playing device for DJ's. \
-Consider the following: \
+A Neuro Deck is an N-dimensional music-playing device for DJ's.
+#### Consider the following:
  * Block Decks and AlphaTheta / Pioneer DJM's are 0D (MIDI Synth Arranger)
  * Track Decks and AlphaTheta / Pioneer CDJ's are 1D (CD / DVD / Blu-Ray)
  * Remix Decks and AlphaTheta / Pioneer DJS's are 2D (MPC / NI Maschine)
@@ -34,42 +34,42 @@ The existing system may have to be reworked to support NDJ's.
 ## Modular Synthesis
 TheMindVirus has made a Work-In-Progress Album \
 entitled "Modular" containing 4 Stem Tracks and \
-a Bonus 5th Track called "Modular Synthesis". \
+a Bonus 5th Track called "Modular Synthesis".
 
 The Main Theme is based on the Constraints of \
 known Modular Synthesiser technology and is \
 designed to be played on a variety of equipment.
 
 ### Line By Phono Graph
-Based On: 1970's Radio Transmissions
-Emulator: A 3xOsc was used.
-Low End: Numark PT-01 Scratch
-High End: Pioneer PLX-1000 Turntable
-Method: Control Vinyl on Direct-Drive
+Based On: 1970's Radio Transmissions \
+Emulator: A 3xOsc was used. \
+Low End: Numark PT-01 Scratch \
+High End: Pioneer PLX-1000 Turntable \
+Method: Control Vinyl on Direct-Drive \
 Neural: Light Finger Taps on the Neural Deck
 
 ### Send It On Ahead
-Based On: 1970's Postal Logistics
-Emulator: A 3xOsc was used.
-Low End: Yamaha PSR-280 Keyboard
-High End: Korg Minilogue XD
-Method: Mini-Moon Preset
+Based On: 1970's Postal Logistics \
+Emulator: A 3xOsc was used. \
+Low End: Yamaha PSR-280 Keyboard \
+High End: Korg Minilogue XD \
+Method: Mini-Moon Preset \
 Neural: Swaying Side Swipes on the Neural Deck
 
 ### Return To The Wild
-Based On: 2000's Jungle Drums
-Emulator: An FPC was used.
-Low End: Linn Drum Sampler
-High End: Akai MPC Live
-Method: Linn-Drum Preset
+Based On: 2000's Jungle Drums \
+Emulator: An FPC was used. \
+Low End: Linn Drum Sampler \
+High End: Akai MPC Live \
+Method: Linn-Drum Preset \
 Neural: Segmented Pressure Pads on the Neural Deck
 
 ### Master Of The Arts
-Based On: 2000's Overclocking Bass
-Emulator: A 3xOsc was used.
-Low End: Ibanez GIO Bass Guitar
-High End: Behringer ARP 2600 Modular
-Method: Lifter Bass with Portamento / Glide
+Based On: 2000's Overclocking Bass \
+Emulator: A 3xOsc was used. \
+Low End: Ibanez GIO Bass Guitar \
+High End: Behringer ARP 2600 Modular \
+Method: Lifter Bass with Portamento / Glide \
 Neural: Palm Pressure Level on the Neural Deck
 
 ## Future Integration
